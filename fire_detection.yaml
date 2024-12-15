@@ -1,0 +1,7 @@
+path: D:/GitHub/YOLOv8_FireDetection/dataset
+train: images/train
+val: images/val
+test:
+
+names:
+  0: Fire
